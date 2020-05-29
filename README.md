@@ -1,4 +1,4 @@
 # python-learning-materials
-Basic to advance python tutorials
+Basic to advanced python tutorials
 
 blahblahblah
